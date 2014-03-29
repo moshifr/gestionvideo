@@ -1,0 +1,11 @@
+*.tar
+*.mp4
+upload/img/1394796226_rep_mars.png
+upload/img/1394796226_itw_mars.png
+upload/img/1394796226_MSD.jpg
+upload/img/1394796226_News_mars.png
+upload/img/1392139598_J18_itw.png
+upload/img/1392139598_J18_Reportage.png
+upload/img/1392139598_J18_News.png
+*.log
+config/my.conf.php
